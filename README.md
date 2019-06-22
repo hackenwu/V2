@@ -13,6 +13,7 @@ git clone https://github.com/hackenwu/V2/
 
 # 给予可执行权限
 cd V2
+
 chmod -R 777 *
 
 # 安装v2ray

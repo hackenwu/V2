@@ -1,4 +1,4 @@
-# 安装git
+安装git
 
 # Centos安装
 yum install git -y

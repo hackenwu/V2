@@ -1,9 +1,9 @@
 {
-    "Mysql_Host": "", #修改数据库地址
-    "Mysql_Port": 3306, 
-    "Mysql_User": "vpn",  #修改数据库用户名
-    "Mysql_Password": "",  #修改数据库密码
-    "Mysql_Db": "vpn",    #修改数据库名
+    "Mysql_Host": "",
+    "Mysql_Port": 3306,
+    "Mysql_User": "vpn",
+    "Mysql_Password": "",
+    "Mysql_Db": "vpn",
     "Mysql_TLS": "false",
     "Mysql_MaxOpenConns": 100,
     "Mysql_MaxIdleConns": 10,

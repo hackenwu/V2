@@ -15,7 +15,7 @@
       "clients": []
     },
     "streamSettings": {
-      "network": "ws"
+      "network": "ws",
       "wsSettings": {
     "path":"/ray"
   }

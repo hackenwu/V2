@@ -16,6 +16,9 @@
     },
     "streamSettings": {
       "network": "ws"
+      "wsSettings": {
+    "path":"/ray"
+  }
     },
     "tag": "proxy"
   },

@@ -1,3 +1,5 @@
+WHMCS插件   https://github.com/hackenwu/V2raySocks
+
 安装git
 
 # Centos安装
